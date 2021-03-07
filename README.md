@@ -15,7 +15,7 @@
 - Получить длину length();
 - Получить по индексу элемент get($index);
 
-###ComplexAction:
+### ComplexAction:
 - Сумма комплексного массива sum(ComplexArray);
 - Разность комплексного массива minus(ComplexArray);
 - Умножение комплексного массива multiply(ComplexArray);
