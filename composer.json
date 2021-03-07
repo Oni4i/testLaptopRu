@@ -1,0 +1,17 @@
+{
+    "name": "nikita/laptop.ru",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nikita",
+            "email": "websns@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "description": ""
+}
